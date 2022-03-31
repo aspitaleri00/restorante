@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/restorante/static/css/main.db956b8b.css",
+    "main.js": "/restorante/static/js/main.2a5c8e14.js",
+    "static/js/787.7803ebbf.chunk.js": "/restorante/static/js/787.7803ebbf.chunk.js",
+    "static/media/bondiola.jpg": "/restorante/static/media/bondiola.af7d7f6f49610fc56e47.jpg",
+    "static/media/restoran.jpg": "/restorante/static/media/restoran.cbfa01232319e45a5631.jpg",
+    "static/media/ñoquis.jpg": "/restorante/static/media/ñoquis.4b44bab081fecf6fbdf1.jpg",
+    "static/media/salmon.jpg": "/restorante/static/media/salmon.7a41a02b0fb8a9cb533a.jpg",
+    "static/media/lasagña.jpg": "/restorante/static/media/lasagña.0cc28c4bde62763a6055.jpg",
+    "static/media/filet.jpg": "/restorante/static/media/filet.799c5b27998232765db5.jpg",
+    "static/media/hamburguesa.jpg": "/restorante/static/media/hamburguesa.ce9219bf97153a81cf40.jpg",
+    "static/media/sorrentinos.jpg": "/restorante/static/media/sorrentinos.383f881b5c0fd0d734f1.jpg",
+    "index.html": "/restorante/index.html",
+    "main.db956b8b.css.map": "/restorante/static/css/main.db956b8b.css.map",
+    "main.2a5c8e14.js.map": "/restorante/static/js/main.2a5c8e14.js.map",
+    "787.7803ebbf.chunk.js.map": "/restorante/static/js/787.7803ebbf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db956b8b.css",
+    "static/js/main.2a5c8e14.js"
+  ]
+}
